@@ -1,5 +1,5 @@
 {
-  "name": "random-number-generator",
+  "name": "lacerba-random-number-generator",
   "version": "1.0.0",
   "description": "A fullstack random number generator build from Lacerba.io",
   "main": "main.ts",
@@ -11,6 +11,6 @@
     "random",
     "enalotto"
   ],
-  "author": "\"@calabrone74",
+  "author": "\"@ascalise74",
   "license": "ISC"
 }
