@@ -1,0 +1,16 @@
+{
+  "name": "random-number-generator",
+  "version": "1.0.0",
+  "description": "A fullstack random number generator build from Lacerba.io",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lacerba",
+    "random",
+    "enalotto"
+  ],
+  "author": "\"@calabrone74",
+  "license": "ISC"
+}
