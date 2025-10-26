@@ -52,6 +52,6 @@ ruote.forEach(ruota => {
     estrazioni[ruota] = myarray;
 });
 
-const jsonresult = JSON.stringify(estrazioni,null,1);
+const jsonresult = JSON.stringify(estrazioni,null,2);
 console.log(jsonresult);
 
